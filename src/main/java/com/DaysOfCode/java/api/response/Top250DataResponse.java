@@ -6,5 +6,5 @@ import java.util.List;
 
 @Data
 public class Top250DataResponse {
-    public List<Top250DataDetailResponse> items;
+    private List<Top250DataDetailResponse> items;
 }
