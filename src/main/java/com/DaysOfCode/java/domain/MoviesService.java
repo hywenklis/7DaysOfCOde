@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 public class MoviesService {
 
     private final MoviesImdbClient client;
-    private static final String apiKey = "k_xzz3jcug";
+    private static final String apiKey = "ADICIONE AQUI SUA API KEY";
 
     public Top250DataResponse findAll() {
         return client.getMovies(apiKey);
