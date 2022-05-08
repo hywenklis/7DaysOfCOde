@@ -14,6 +14,7 @@ Tomei a liberdade de realizar esse desafio utilizando:
 
 ## SEGUNDO DESAFIO:
 >A tarefa será extrair o título do filme e a URL da imagem a partir da resposta JSON.
+
 >TESTANDO A CHAMADA
 * Ao subir a aplicação chame o controller com a seguinte url: ```http://localhost:8080/movies/titles/images```
 
