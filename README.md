@@ -19,7 +19,7 @@ Tomei a liberdade de realizar esse desafio utilizando:
 * Ao subir a aplicação chame o controller com a seguinte url: ```http://localhost:8080/movies/titles/images```
 
 ## TERCEIRO DESAFIO:
->No desafio de hoje, a ideia será modelar, ou pelo menos iniciar uma modelagem melhor do seu código.
+>A ideia será modelar, ou pelo menos iniciar uma modelagem melhor do seu código.
 Pensando um pouco sobre Orientação a Objetos, uma pergunta simples pode ajudar: no caso do seu projeto, o título e o pôster se referem a que tipo de objeto? A um filme, claro. Mas você ainda não tem nenhuma estrutura que defina o que é um filme.
 Qual vai ser a cara disso? Um filme (Movie) deve ter os seguintes atributos:
 * título (fullTitle)
